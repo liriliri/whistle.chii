@@ -4,7 +4,7 @@
   "description": "Whistle chii plugin",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "format": "prettier *.js lib/*.js --write"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,8 @@
   "homepage": "https://github.com/liriliri/whistle.chii#readme",
   "dependencies": {
     "chii": "^0.6.5"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.5"
   }
 }
