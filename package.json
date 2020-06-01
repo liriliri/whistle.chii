@@ -1,0 +1,26 @@
+{
+  "name": "whistle.chii",
+  "version": "0.0.1",
+  "description": "Whistle chii plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liriliri/whistle.chii.git"
+  },
+  "keywords": [
+    "whistle",
+    "chii"
+  ],
+  "author": "redhoodsu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liriliri/whistle.chii/issues"
+  },
+  "homepage": "https://github.com/liriliri/whistle.chii#readme",
+  "dependencies": {
+    "chii": "^0.6.5"
+  }
+}
