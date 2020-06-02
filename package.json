@@ -8,6 +8,9 @@
     "format": "prettier *.js lib/*.js --write",
     "lint": "eslint *.js lib/*.js"
   },
+  "whistleConfig": {
+    "hideShortProtocol": true
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/liriliri/whistle.chii.git"
