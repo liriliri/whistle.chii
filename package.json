@@ -4,7 +4,8 @@
   "description": "Whistle chii plugin",
   "main": "index.js",
   "scripts": {
-    "format": "prettier *.js lib/*.js --write"
+    "format": "prettier *.js lib/*.js --write",
+    "lint": "eslint *.js lib/*.js"
   },
   "repository": {
     "type": "git",
@@ -21,10 +22,12 @@
   },
   "homepage": "https://github.com/liriliri/whistle.chii#readme",
   "dependencies": {
-    "chii": "^0.6.5",
+    "chii": "^0.6.6",
     "licia": "^1.21.2"
   },
   "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.1.0",
     "prettier": "^2.0.5"
   }
 }

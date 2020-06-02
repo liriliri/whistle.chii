@@ -1,3 +1,4 @@
 .gitignore
+.eslintrc.js
 prettier.config.js
 scripts/
