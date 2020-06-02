@@ -25,7 +25,7 @@ npm install whistle.chii -g
 Write rules for target pages, navigate to it, then open chii in whistle's plugins section to start inspecting the page.
 
 ```
-chii.liriliri.io chii://title
+chii.liriliri.io whistle.chii://title
 ```
 
 ![screenshot](./docs/screenshot.png)
