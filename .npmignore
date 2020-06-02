@@ -1,4 +1,5 @@
 .gitignore
 .eslintrc.js
+.travis.yml
 prettier.config.js
 scripts/
