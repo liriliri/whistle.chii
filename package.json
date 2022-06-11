@@ -5,7 +5,8 @@
   "main": "index.js",
   "files": [
     "lib",
-    "index.js"
+    "index.js",
+    "_rules.txt"
   ],
   "scripts": {
     "ci": "npm run lint",

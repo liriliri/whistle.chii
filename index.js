@@ -1,1 +1,1 @@
-exports.uiServer = require('./lib/uiServer');
+exports.uiServer = require('./lib/uiServer')
