@@ -1,6 +1,6 @@
 {
   "name": "whistle.chii",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Whistle chii plugin",
   "main": "index.js",
   "files": [
@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/liriliri/whistle.chii#readme",
   "dependencies": {
-    "chii": "^0.6.6"
+    "chii": "^0.7.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
