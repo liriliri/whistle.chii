@@ -28,4 +28,4 @@ Write rules for target pages, navigate to it, then open chii in whistle's plugin
 chii.liriliri.io whistle.chii://title
 ```
 
-![screenshot](./docs/screenshot.png)
+![screenshot](https://res.liriliri.io/chii/whistle.png)

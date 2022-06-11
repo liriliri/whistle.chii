@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "description": "Whistle chii plugin",
   "main": "index.js",
+  "files": [
+    "lib",
+    "index.js"
+  ],
   "scripts": {
     "ci": "npm run lint",
     "format": "prettier *.js lib/*.js --write",
