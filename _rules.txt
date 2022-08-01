@@ -32,7 +32,7 @@
   window.ChiiTitle = escapeJs('${whistle.chii}') || 'anonymous';
   window.ChiiServerUrl = location.host + '/...whistle-path.5b6af7b9884e1165...///whistle.chii';
 </script>
-<script src='/...whistle-path.5b6af7b9884e1165...///whistle.chii/target.js'}'></script>
+<script src='/...whistle-path.5b6af7b9884e1165...///whistle.chii/target.js'></script>
 ```
 
 * htmlAppend://`{whistle.chii/inspect.html}` enable://safeHtml
