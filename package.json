@@ -10,7 +10,7 @@
   ],
   "scripts": {
     "ci": "npm run lint",
-    "format": "prettier *.js lib/*.js --write",
+    "format": "lsla prettier *.js lib/*.js --write",
     "lint": "eslint *.js lib/*.js"
   },
   "whistleConfig": {
@@ -31,11 +31,10 @@
   },
   "homepage": "https://github.com/liriliri/whistle.chii#readme",
   "dependencies": {
-    "chii": "^1.7.1"
+    "chii": "^1.11.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
-    "eslint": "^7.1.0",
-    "prettier": "^2.0.5"
+    "eslint": "^7.1.0"
   }
 }
