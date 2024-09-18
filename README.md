@@ -8,7 +8,7 @@ Whistle Chii plugin.
 
 [npm-image]: https://img.shields.io/npm/v/whistle.chii.svg
 [npm-url]: https://npmjs.org/package/whistle.chii
-[ci-image]: https://img.shields.io/github/workflow/status/liriliri/whistle.chii/CI?style=flat-square
+[ci-image]: https://img.shields.io/github/actions/workflow/status/liriliri/whistle.chii/main.yml?branch=master&style=flat-square
 [ci-url]: https://github.com/liriliri/whistle.chii/actions/workflows/main.yml
 [license-image]: https://img.shields.io/npm/l/whistle.chii.svg
 
@@ -28,4 +28,4 @@ Write rules for target pages, navigate to it, then open chii in whistle's plugin
 chii.liriliri.io whistle.chii://title
 ```
 
-![screenshot](https://res.liriliri.io/chii/whistle.png)
+![screenshot](https://chii.liriliri.io/whistle.png)
