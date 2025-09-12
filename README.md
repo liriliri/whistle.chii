@@ -14,7 +14,7 @@ Whistle Chii plugin.
 
 ## Install
 Install [whistle](https://github.com/avwo/whistle) first.
-And Then You can get this plugin by following command.
+And then You can get this plugin by following command.
 
 ```bash
 whistle install whistle.chii
