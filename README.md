@@ -13,11 +13,11 @@ Whistle Chii plugin.
 [license-image]: https://img.shields.io/npm/l/whistle.chii.svg
 
 ## Install
-
-You can get it on npm.
+Install [whistle](https://github.com/avwo/whistle) first.
+And Then You can get this plugin by following command.
 
 ```bash
-npm install whistle.chii -g
+whistle install whistle.chii
 ```
 
 ## Usage
